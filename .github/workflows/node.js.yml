@@ -26,3 +26,4 @@ jobs:
     - run: npm i
     - run: npm run build --if-present
     - run: mv /home/anil/actions-runner/_work/ReactDeployment-2/ReactDeployment-2/build /home/anil/actions-runner/_work/ReactDeployment-2/ReactDeployment-2/helloreact
+    - run: cd /home/anil/actions-runner/_work/ReactDeployment-2/ReactDeployment-2/helloreact
